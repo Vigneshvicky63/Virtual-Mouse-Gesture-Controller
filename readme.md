@@ -23,7 +23,7 @@ pip install pyautogui
 ### Installation
 1. Clone the repository:
 ```
-
+https://github.com/Vigneshvicky63/Virtual-Mouse-Gesture-Controller.git
 ```
 ## Contact
 If you have any questions or suggestions, feel free to reach out to:
